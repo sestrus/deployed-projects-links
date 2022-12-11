@@ -1,4 +1,4 @@
-# deployed projects
+# Deployed projects
 
 ### [Weather App](https://weather-app-five-gold-72.vercel.app/)
 ### [Grocery Bud JS](https://grocery-bud-tan.vercel.app/)
